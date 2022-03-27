@@ -8,14 +8,14 @@ sidebarDepth: 3
 
 ## Was kostet der LSS-Manager?
 Der LSS-Manager ist ein kostenloses Angebot - wir haben auch nicht vor, dies zu ändern.
-Auch wenn er sicherlich einen Mehrwert liefert, liegt keine Mehrwertsteuer auf diesem Produkt :wink:
+Auch wenn er sicherlich einen Mehrwert liefert, liegt keine Mehrwertsteuer auf diesem Produkt. :wink:
 
 :::warning Spenden
 Es gibt ein paar nette Nutzer, die uns gerne Geld spenden möchten. Aber: Der LSS-Manager ist und bleibt kostenlos. Auch werden wir für dieses Projekt keine Spenden entgegennehmen.
 
 Dies hat mehrere Gründe:
 
-* Dieses Projekt wird auf freiwilliger Basis in der Freizeit der beteiligten Entwickler weiterentwickelt
+* Dieses Projekt wird auf freiwilliger Basis in der Freizeit der beteiligten Entwickler weiterentwickelt.
 * Eine Abo-Variante, ähnlich des Premium im Spiel würde uns persönlich zu sehr unter Druck setzen, auch über unsere Lust hinaus weiter zu programmieren.
 * Spenden können wir aus rechtlichen Gründen nicht entgegennehmen:
     * Wenn wir für den LSS-Manager ein Unternehmen gründen würden, damit wir spenden empfangen könnten, würde dies keine Zukunft haben, da ein Unternehmen ohne Ausgaben kein Unternehmen sein kann.
@@ -27,7 +27,7 @@ Daher macht es für uns, neben dem Gedanken der Freiwilligkeit, auch keinen Sinn
 ## Wie kann ich zum LSS-Manager beitragen?
 Der "normale" Nutzer kann [Fehler melden][error] oder [Vorschläge einreichen][suggestions].
 
-Wir gestalten derzeit einen Styleguide für Entwickler, damit auch diese einfach eigene Plugins dem LSSM hinzufügen können. Zudem haben wir versucht, die Code-Struktur übersichtlich und verständlich zu halten. Das Hinzufügen eines Plugins bedeutet jedoch keinen falls eine Aufnahme in das Team.
+Wir gestalten derzeit einen Styleguide für Entwickler, damit auch diese eigene Plugins einfach dem LSSM hinzufügen können. Zudem haben wir versucht, die Code-Struktur übersichtlich und verständlich zu halten. Das Hinzufügen eines Plugins bedeutet jedoch keinesfalls eine Aufnahme in das Team.
 
 ## Wie melde ich Fehler?
 Bitte schaue dir unsere Seite [Fehler melden][error] an.
@@ -61,15 +61,15 @@ Die Antwort lautet: Ja – über Umwege – allerdings bieten wir keinen Support
 
 Wie geht das?
 
-*wir haben uns hierbei an folgendem Artikel orientiert: [How to use Tampermonkey on Firefox mobile](https://enux.pl/article/en/2021-03-14/how-use-tampermonkey-firefox-mobile)*
+*Wir haben uns hierbei an folgendem Artikel orientiert: [How to use Tampermonkey on Firefox mobile](https://enux.pl/article/en/2021-03-14/how-use-tampermonkey-firefox-mobile)*
 
 1. Firefox Nightly für Android installieren: [Google Play](https://play.google.com/store/apps/details?id=org.mozilla.fenix)
-2. im Firefox Nightly in die Einstellungen, runter scrollen bis "Über Firefox Nightly".
+2. Im Firefox Nightly in die Einstellungen, runterscrollen bis "Über Firefox Nightly".
 3. 5 Mal auf das Firefox-Logo klicken. Es kommt so ein kleines Hinweis-Ding unten, welches auf die Aktivierung des Debug-Menüs hinweist.
-4. Zurück zu den Einstellungen. Im Bereich "Erweitert" ist nun ein Punkt "Benutzerdefinierte Add-on-Sammlung" aufgetaucht. Wenn man da drauf klickt, kann man eine Nutzer-ID und einen Collection-Namen eintragen. Wir haben uns die Mühe gemacht und alle Add-ons welche standardmäßig in Firefox Nightly für Android verfügbar sind zusammen mit Tampermonkey in eine Collection gepackt: [https://addons.mozilla.org/en-US/firefox/collections/16048019/tampermonkey/](https://addons.mozilla.org/en-US/firefox/collections/16048019/tampermonkey/)
-5. Bei "Benutzer-ID" `16048019` eintragen, bei "Name der Sammlung" `Tampermonkey`. Selbstverständlich ist es jedem überlassen, andere Sammlungen zu verwenden oder eigene zu erstellen. Leider scheint es keine offizielle "Collection-Sammlung" zu geben, wo man einfach durch Collections durch Browsen kann. Außerdem sind die standardmäßigen Add-Ons nur verfügbar, wenn diese in der Collection sind (so wie in der oben verlinkten Collection).
+4. Zurück zu den Einstellungen. Im Bereich "Erweitert" ist nun ein Punkt "Benutzerdefinierte Add-on-Sammlung" aufgetaucht. Wenn man dort drauf klickt, kann man eine Nutzer-ID und einen Collection-Namen eintragen. Wir haben uns die Mühe gemacht und alle Add-ons, welche standardmäßig in Firefox Nightly für Android verfügbar sind zusammen mit Tampermonkey in eine Collection gepackt: [https://addons.mozilla.org/en-US/firefox/collections/16048019/tampermonkey/](https://addons.mozilla.org/en-US/firefox/collections/16048019/tampermonkey/)
+5. Bei "Benutzer-ID" `16048019` und bei "Name der Sammlung" `Tampermonkey` eintragen. Selbstverständlich ist es jedem selbst überlassen, andere Sammlungen zu verwenden oder eigene zu erstellen. Leider scheint es keine offizielle "Collection-Sammlung" zu geben, wo man einfach durch Collections durch browsen kann. Außerdem sind die standardmäßigen Add-Ons nur verfügbar, wenn diese in der Collection sind (so wie in der oben verlinkten Collection).
 
-Trotzdem weisen wir nochmals explizit darauf hin, dass der LSSM nicht für mobile Endgeräte gedacht ist und unser Support somit, wenn überhaupt, nur sehr eingeschränkt vorhanden ist.
+Trotzdem weisen wir nochmals explizit darauf hin, dass der LSSM **nicht** für mobile Endgeräte gedacht ist und unser Support somit, wenn überhaupt, nur sehr eingeschränkt vorhanden ist.
 
 
 ## Ich möchte mein Setup an Freunde weitergeben oder es an mehreren Geräten nutzen. Geht das?
@@ -81,7 +81,7 @@ Derzeit bieten wir das nicht an, eine Implementierung dieses Features ist aber g
 ## Wo seh ich, ob die LSSM-Server grad online sind? 
 Am besten hier: [https://status.lss-manager.de/](https://status.lss-manager.de/)
 
-Oder im <discord-channel channel="uptime"/> auf unserem <discord/> 
+Oder im <discord-channel channel="uptime"/> auf unserem <discord/>.
 
 [support]: support.md
 [error]: error_report.md
