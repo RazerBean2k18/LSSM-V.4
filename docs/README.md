@@ -11,6 +11,9 @@ actions:
   - text: 🇳🇱
     link: /nl_NL/
     type: primary
+  - text: " "
+    link: " "
+    type: secondary
   - text: 🇨🇿
     link: /cs_CZ/
     type: secondary
@@ -32,10 +35,15 @@ actions:
   - text: 🇸🇪
     link: /sv_SE/
     type: secondary
+  - text: " "
+    link: " "
+    type: secondary
   - text: Language not listed?
     link: /en_US/faq#_1-lss-manager-does-not-support-your-game-yet
     type: secondary
 ---
+
+<!-- Do NOT edit anything above this line! Any edits will be removed as content is auto generated! -->
 
 ### Easy installation:
 1. [Tampermonkey](https://tampermonkey.net)

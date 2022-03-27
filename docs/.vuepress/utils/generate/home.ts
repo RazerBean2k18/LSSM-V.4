@@ -23,7 +23,7 @@ fs.writeFileSync(
         .readFileSync(file)
         .toString()
         .replace(
-            /^---.*?---/su,
+            /^---.*?---\n\n<!--.*?-->/su,
             `
 ---
 home: true
@@ -37,14 +37,22 @@ ${PRIMARIES.map(lang =>
             : langArray.find(([locale]) => locale === lang)?.[1] ?? ''
     )
 ).join('\n')}
+  - text: " "
+    link: " "
+    type: secondary
 ${langArray
     .filter(([lang]) => !PRIMARIES.includes(lang) && !lang.startsWith('en_'))
     .map(([lang, flag]) => generateAction(lang, flag))
     .join('\n')}
+  - text: " "
+    link: " "
+    type: secondary
   - text: Language not listed?
     link: /en_US/faq#_1-lss-manager-does-not-support-your-game-yet
     type: secondary
 ---
+
+<!-- Do NOT edit anything above this line! Any edits will be removed as content is auto generated! -->
 `.trim()
         )
 );
