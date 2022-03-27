@@ -7,7 +7,7 @@ lang: de_DE
 
 In den Einstellungen werden die Einstellungen aller Module zentral verwaltet. Es können nur die Einstellungen aktiver Module verändert werden.
 
-Mittels der Knöpfe `Export` und `Import` kannst du deine Einstellungen in einer Datei sichern und / oder an deine Freunde weitergeben.
+Mittels der Knöpfe `Export` und `Import` kannst du deine Einstellungen in einer Datei sichern und/oder an deine Freunde weitergeben.
 Wir möchten in naher Zukunft die Möglichkeit bieten, Einstellungen profilgebunden zu speichern. Damit sind Einstellungen nicht mehr an ein Gerät gebunden.
 
 :::tip Änderungen
@@ -37,7 +37,7 @@ Du möchtest die Farbe aus [`LSSM-Icon Hintergrund`](#lssm-icon-hintergrund) als
 Hast du das dunkle Design aktiv, sind die Tooltips (Fahrzeug-/Einsatznamen etc.) trotzdem hell. Mittels diesem Feature lässt sich das ganz einfach korrigieren, sodass auch die Tooltips dunkel sind.
 
 ### V3 Menü als Untermenü
-Hat man viele Scripts aktiv, so wird die Navigationsleiste des Spiels schnell sehr voll. Mit dieser Einstellung wird das Menü des LSSM V.3 in das Menü der V4 verschoben:
+Hat man viele Scripts aktiv, so wird die Navigationsleiste des Spiels schnell sehr voll. Mit dieser Einstellung wird das Menü des LSSM V.3 in das Menü der V.4 verschoben:
 
 ![V3 Menü als Untermenü](/img/de_DE/v3submenu.png)
 
