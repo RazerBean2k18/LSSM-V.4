@@ -28,7 +28,7 @@ Plugins die nicht aktiviert sind, werden auch nicht geladen - das macht die Verw
 ## Installation :inbox_tray:
 Mit der Nutzung des LSSM bist du damit einverstanden, dass wir Metadaten erheben. Mehr Informationen hierzu findest du unter [Metadaten](metadata.md)
 
-Eine Tabelle mit welchen Browsern der LSSM kompatibel ist, findest du in unseren [FAQ](faq.md#in-welchen-browsern-funktioniert-der-lss-manager)
+Eine Tabelle mit welchen Browsern der LSSM kompatibel ist, findest du in unseren [FAQ](faq.md#in-welchen-browsern-funktioniert-der-lss-manager).
 
 :::tip Den LSSM am Handy nutzen
 Offiziell unterstützen wir keine mobile Version. Jedoch bietet der Browser Firefox auch in seiner mobilen Version die Möglichkeit, Add-Ons zu nutzen (siehe [FAQ](faq.md#den-lssm-am-handy-nutzen)). Wir übernehmen jedoch keine Garantie für ein ansprechendes Design, sowie die volle Funktionalität bei mobilen Browsern.
@@ -55,7 +55,7 @@ Wenn Tampermonkey in deinem Browser erfolgreich installiert wurde, kannst du ent
 ### Schritt 3: Aktivieren
 Der LSSM-Indikator ist das LSSM-Logo oder (falls in den [Einstellungen](settings.md#label-statt-icon-im-menu) entsprechend eingestellt) ein grün hinterlegter Text `LSSM V.4`.
 
-Ein Klick auf den Indikator öffnet ein kleines Menü, über das du in den [Appstore](appstore.md) und in die [Einstellungen](settings.md) gelangen kannst. In den Einstellungen tauchen nur die Module auf, die du aktiviert hast, du musst also erst den AppStore besuchen!
+Ein Klick auf den Indikator öffnet ein kleines Menü, über das du in den [Appstore](appstore.md) und in die [Einstellungen](settings.md) gelangen kannst. In den Einstellungen tauchen nur die Module auf, die du im AppStore aktiviert hast. Du musst also erst den AppStore besuchen und die gewünschten Scripte aktivieren!
 
 Solltest du dich im Leitstellenspiel befinden, aber diesen Indikator nicht in der oberen rechten Ecke sehen, so klicke auf das Tampermonkey-Icon in deinem Browser und überprüfe, ob der Schalter für das LSS-Manager Script auf `an` gestellt ist.
 
