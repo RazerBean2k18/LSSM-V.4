@@ -75,7 +75,7 @@ Trotzdem weisen wir nochmals explizit darauf hin, dass der LSSM **nicht** für m
 ## Ich möchte mein Setup an Freunde weitergeben oder es an mehreren Geräten nutzen. Geht das?
 Ja, das geht. Klicke dazu einfach in den [Einstellungen][settings] auf `Export`, um eine Datei herunterzuladen und `Import` um die Einstellungen aus einer Datei zu importieren.
 
-## Gibt es eine Möglichkeit, Einstellungen Account-gebunden zu speichern, um sie an einem anderen Gerät nicht importieren zu müssen?
+## Gibt es eine Möglichkeit, Einstellungen profilgebunden zu speichern, um sie an einem anderen Gerät nicht importieren zu müssen?
 Derzeit bieten wir das nicht an, eine Implementierung dieses Features ist aber geplant.
 
 ## Wo seh ich, ob die LSSM-Server grad online sind? 
